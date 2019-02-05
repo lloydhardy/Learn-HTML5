@@ -17,7 +17,7 @@ Complete Language reference of HTML5 Tags.
 &lt;bdo&gt;\
 &lt;blockquote&gt;\
 &lt;body&gt;\
-&lt;br&gt;\
+[&lt;br&gt;](br.html) - Insert a break line so the follow text beings on a new line.\
 &lt;button&gt;\
 &lt;canvas&gt;\
 &lt;caption&gt;\
@@ -41,7 +41,12 @@ Complete Language reference of HTML5 Tags.
 &lt;figure&gt;\
 &lt;footer&gt;\
 &lt;form&gt;\
-&lt;h1&gt;\ - &lt;h6&gt;\
+[&lt;h1&gt;](h1.html) - Display a h1 style text heading.\
+[&lt;h2&gt;](h2.html) - Display a h2 style text heading.\
+[&lt;h3&gt;](h3.html) - Display a h3 style text heading.\
+[&lt;h4&gt;](h4.html) - Display a h4 style text heading.\
+[&lt;h5&gt;](h5.html) - Display a h5 style text heading.\
+[&lt;h6&gt;](h6.html) - Display a h6 style text heading.\
 &lt;head&gt;\
 &lt;header&gt;\
 &lt;hgroup&gt;\
@@ -49,7 +54,7 @@ Complete Language reference of HTML5 Tags.
 &lt;html&gt;\
 [&lt;i&gt;](i.html) - Display contained text in an italic version of the font.\
 &lt;iframe&gt;\
-&lt;img&gt;\
+[&lt;img&gt;](img.html) - Display an image from the specified src path.\
 &lt;input&gt;\
 &lt;ins&gt;\
 &lt;kbd&gt;\
