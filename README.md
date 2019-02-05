@@ -11,7 +11,7 @@ Complete Language reference of HTML5 Tags.
 &lt;article&gt;\
 &lt;aside&gt;\
 &lt;audio&gt;\
-[&lt;b&gt;](b.html)\
+[&lt;b&gt;](b.html) - Display contained text in a bold version of the font.\
 &lt;base&gt;\
 &lt;bdi&gt;\
 &lt;bdo&gt;\
@@ -47,7 +47,7 @@ Complete Language reference of HTML5 Tags.
 &lt;hgroup&gt;\
 &lt;hr&gt;\
 &lt;html&gt;\
-[&lt;i&gt;](i.html)\
+[&lt;i&gt;](i.html) - Display contained text in an italic version of the font.\
 &lt;iframe&gt;\
 &lt;img&gt;\
 &lt;input&gt;\
@@ -70,7 +70,7 @@ Complete Language reference of HTML5 Tags.
 &lt;optgroup&gt;\
 &lt;option&gt;\
 &lt;output&gt;\
-[&lt;p&gt;](p.html)\
+[&lt;p&gt;](p.html) - Display contained text in a paragraph.\
 &lt;param&gt;\
 &lt;pre&gt;\
 &lt;progress&gt;\
@@ -102,8 +102,8 @@ Complete Language reference of HTML5 Tags.
 &lt;title&gt;\
 &lt;tr&gt;\
 &lt;track&gt;\
-&lt;u&gt;\
-[&lt;ul&gt;](u.html)\
+[&lt;u&gt;](u.html) - Display contained text in an underlined version of the font.\
+[&lt;ul&gt;](ul.html) - Display an unordered list with items contained inside, in &lt;li&gt;&lt;/li&gt; tags.\
 &lt;var&gt;\
 &lt;video&gt;\
 &lt;wbr&gt;
