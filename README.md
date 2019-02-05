@@ -5,7 +5,7 @@ Complete Language reference of HTML5 Tags.
 
 &lt;!DOCTYPE&gt;\
 [&lt;a&gt;](a.html) - Display anchor text, for example as a hypertext link to another file specified in the href attribute.\
-&lt;abbr&gt;\
+[&lt;abbr&gt;](abbr.html) - Display an abbreviation or acronym of the contained text, for exmaple with the title attribute.\
 &lt;address&gt;\
 &lt;area&gt;\
 &lt;article&gt;\
