@@ -11,7 +11,7 @@ Complete Language reference of HTML5 Tags.
 &lt;article&gt;\
 &lt;aside&gt;\
 &lt;audio&gt;\
-&lt;b&gt;\
+[&lt;b&gt;](b.html)\
 &lt;base&gt;\
 &lt;bdi&gt;\
 &lt;bdo&gt;\
@@ -106,4 +106,4 @@ Complete Language reference of HTML5 Tags.
 &lt;ul&gt;\
 &lt;var&gt;\
 &lt;video&gt;\
-&lt;wbr&gt;\
+&lt;wbr&gt;
