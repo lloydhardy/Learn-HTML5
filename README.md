@@ -3,7 +3,7 @@ Complete Language reference of HTML5 Tags.
 
 # Language Reference
 
-&lt;!DOCTYPE&gt;\
+[&lt;!DOCTYPE&gt;](doctype.html) - Declares the document type (as html in HTML5).\
 [&lt;a&gt;](a.html) - Display anchor text, for example as a hypertext link to another file specified in the href attribute.\
 [&lt;abbr&gt;](abbr.html) - Display an abbreviation or acronym of the contained text, for exmaple with the title attribute.\
 &lt;address&gt;\
