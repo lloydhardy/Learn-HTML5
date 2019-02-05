@@ -4,7 +4,7 @@ Complete Language reference of HTML5 Tags.
 # Language Reference
 
 &lt;!DOCTYPE&gt;\
-&lt;a&gt;\
+[&lt;a&gt;](a.html) - Display anchor text, for example as a hypertext link to another file specified in the href attribute.\
 &lt;abbr&gt;\
 &lt;address&gt;\
 &lt;area&gt;\
