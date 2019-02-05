@@ -56,7 +56,7 @@ Complete Language reference of HTML5 Tags.
 &lt;keygen&gt;\
 &lt;label&gt;\
 &lt;legend&gt;\
-&lt;li&gt;\
+[&lt;li&gt;](ol.html) - List item. See [&lt;ol&gt;](ol.html) and [&lt;ul&gt;](ul.html).\
 &lt;link&gt;\
 &lt;map&gt;\
 &lt;mark&gt;\
@@ -66,7 +66,7 @@ Complete Language reference of HTML5 Tags.
 &lt;nav&gt;\
 &lt;noscript&gt;\
 &lt;object&gt;\
-&lt;ol&gt;\
+[&lt;ol&gt;](ol.html) - Display an ordered list with items contained inside, in &lt;li&gt;&lt;/li&gt; tags.\
 &lt;optgroup&gt;\
 &lt;option&gt;\
 &lt;output&gt;\
