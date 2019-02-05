@@ -47,7 +47,7 @@ Complete Language reference of HTML5 Tags.
 &lt;hgroup&gt;\
 &lt;hr&gt;\
 &lt;html&gt;\
-&lt;i&gt;\
+[&lt;i&gt;](i.html)\
 &lt;iframe&gt;\
 &lt;img&gt;\
 &lt;input&gt;\
@@ -70,7 +70,7 @@ Complete Language reference of HTML5 Tags.
 &lt;optgroup&gt;\
 &lt;option&gt;\
 &lt;output&gt;\
-&lt;p&gt;\
+[&lt;p&gt;](p.html)\
 &lt;param&gt;\
 &lt;pre&gt;\
 &lt;progress&gt;\
@@ -103,7 +103,7 @@ Complete Language reference of HTML5 Tags.
 &lt;tr&gt;\
 &lt;track&gt;\
 &lt;u&gt;\
-&lt;ul&gt;\
+[&lt;ul&gt;](u.html)\
 &lt;var&gt;\
 &lt;video&gt;\
 &lt;wbr&gt;
