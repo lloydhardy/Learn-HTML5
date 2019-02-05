@@ -69,7 +69,7 @@ Complete Language reference of HTML5 Tags.
 &lt;meta&gt;\
 &lt;meter&gt;\
 &lt;nav&gt;\
-&lt;noscript&gt;\
+[&lt;noscript&gt;](nocript.html) - Display alternate content for non-javascript browsers and clients.\
 &lt;object&gt;\
 [&lt;ol&gt;](ol.html) - Display an ordered list with items contained inside, in &lt;li&gt;&lt;/li&gt; tags.\
 &lt;optgroup&gt;\
@@ -77,7 +77,7 @@ Complete Language reference of HTML5 Tags.
 &lt;output&gt;\
 [&lt;p&gt;](p.html) - Display contained text in a paragraph.\
 &lt;param&gt;\
-&lt;pre&gt;\
+[&lt;pre&gt;](pre.html) - Display pre-formatted text (include white space and line breaks).\
 &lt;progress&gt;\
 &lt;q&gt;\
 &lt;rp&gt;\
