@@ -17,7 +17,7 @@ Complete Language reference of HTML5 Tags.
 &lt;bdo&gt;\
 &lt;blockquote&gt;\
 &lt;body&gt;\
-[&lt;br&gt;](br.html) - Insert a break line so the follow text beings on a new line.\
+[&lt;br&gt;](br.html) - Insert a break line so the follow text begins on a new line.\
 &lt;button&gt;\
 &lt;canvas&gt;\
 &lt;caption&gt;\
