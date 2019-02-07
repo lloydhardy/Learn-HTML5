@@ -85,7 +85,7 @@ Complete Language reference of HTML5 Tags.
 &lt;ruby&gt;\
 &lt;s&gt;\
 &lt;samp&gt;\
-&[lt;script&gt;](script.html) - Include script, eg. JavaScript ES5 inline from anohter file.\
+[&lt;script&gt;](script.html) - Include script, eg. JavaScript ES5 inline from anohter file.\
 &lt;section&gt;\
 &lt;select&gt;\
 &lt;small&gt;\
