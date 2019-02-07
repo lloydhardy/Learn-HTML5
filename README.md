@@ -55,7 +55,7 @@ Complete Language reference of HTML5 Tags.
 [&lt;i&gt;](i.html) - Display contained text in an italic version of the font.\
 &lt;iframe&gt;\
 [&lt;img&gt;](img.html) - Display an image from the specified src path.\
-&lt;input&gt;\
+[&lt;input&gt;](input.html) - Display an INPUT form element.\
 &lt;ins&gt;\
 &lt;kbd&gt;\
 &lt;keygen&gt;\
