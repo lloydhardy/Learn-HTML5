@@ -36,7 +36,7 @@ Complete Language reference of HTML5 Tags.
 &lt;dt&gt;\
 &lt;em&gt;\
 &lt;embed&gt;\
-&lt;fieldset&gt;\
+[&lt;fieldset&gt;](fieldset.html) - Designate a FIELDSET around form elements.\
 &lt;figcaption&gt;\
 &lt;figure&gt;\
 &lt;footer&gt;\
