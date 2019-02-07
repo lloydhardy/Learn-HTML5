@@ -36,7 +36,7 @@ Complete Language reference of HTML5 Tags.
 &lt;dt&gt;\
 &lt;em&gt;\
 &lt;embed&gt;\
-[&lt;fieldset&gt;](fieldset.html) - Designate a FIELDSET around form elements.\
+[&lt;fieldset&gt;](fieldset.html) - Designate a FIELDSET around a group of form elements.\
 &lt;figcaption&gt;\
 &lt;figure&gt;\
 &lt;footer&gt;\
@@ -50,7 +50,7 @@ Complete Language reference of HTML5 Tags.
 [&lt;head&gt;](head.html) - Designate the HEAD area of the document.\
 &lt;header&gt;\
 &lt;hgroup&gt;\
-&lt;hr&gt;\
+[&lt;hr&gt;](hr.html) - Display a horizontal line.\
 [&lt;html&gt;](htmlhtml) - Designate the HTML area of the document.\
 [&lt;i&gt;](i.html) - Display contained text in an italic version of the font.\
 &lt;iframe&gt;\
@@ -60,7 +60,7 @@ Complete Language reference of HTML5 Tags.
 &lt;kbd&gt;\
 &lt;keygen&gt;\
 &lt;label&gt;\
-&lt;legend&gt;\
+[&lt;legend&gt;](legend.html) - Dispaly a label for a fieldset.\
 [&lt;li&gt;](ol.html) - List item. See [&lt;ol&gt;](ol.html) and [&lt;ul&gt;](ul.html).\
 &lt;link&gt;\
 &lt;map&gt;\
