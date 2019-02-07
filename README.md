@@ -6,9 +6,9 @@ Complete Language reference of HTML5 Tags.
 [&lt;!DOCTYPE&gt;](doctype.html) - Declares the document type (as html in HTML5).\
 [&lt;a&gt;](a.html) - Display anchor text, for example as a hypertext link to another file specified in the href attribute.\
 [&lt;abbr&gt;](abbr.html) - Display an abbreviation or acronym of the contained text, for exmaple with the title attribute.\
-[&lt;address&gt;](address.html) - Designates the included text as contact information.\
+[&lt;address&gt;](address.html) - Defines the included text as contact information.\
 [&lt;area&gt;](area.html) - Defines an area on an image using an image map to make the area HyperText linked.\
-&lt;article&gt;\
+[&lt;article&gt;](article.html) - Defines an area of a document as an article, for example, redistributable news.\
 &lt;aside&gt;\
 &lt;audio&gt;\
 [&lt;b&gt;](b.html) - Display contained text in a bold version of the font.\
@@ -36,11 +36,11 @@ Complete Language reference of HTML5 Tags.
 &lt;dt&gt;\
 &lt;em&gt;\
 &lt;embed&gt;\
-[&lt;fieldset&gt;](fieldset.html) - Designate a FIELDSET around a group of form elements.\
+[&lt;fieldset&gt;](fieldset.html) - Defines a FIELDSET around a group of form elements.\
 &lt;figcaption&gt;\
 &lt;figure&gt;\
 &lt;footer&gt;\
-[&lt;form&gt;](form.html) - Designate a FORM area of the document for submitting data.\
+[&lt;form&gt;](form.html) - Defines a FORM area of the document for submitting data.\
 [&lt;h1&gt;](h1.html) - Display a h1 style text heading.\
 [&lt;h2&gt;](h2.html) - Display a h2 style text heading.\
 [&lt;h3&gt;](h3.html) - Display a h3 style text heading.\
@@ -51,7 +51,7 @@ Complete Language reference of HTML5 Tags.
 &lt;header&gt;\
 &lt;hgroup&gt;\
 [&lt;hr&gt;](hr.html) - Display a horizontal line.\
-[&lt;html&gt;](htmlhtml) - Designate the HTML area of the document.\
+[&lt;html&gt;](htmlhtml) - Defines the HTML area of the document.\
 [&lt;i&gt;](i.html) - Display contained text in an italic version of the font.\
 &lt;iframe&gt;\
 [&lt;img&gt;](img.html) - Display an image from the specified src path.\
@@ -60,7 +60,7 @@ Complete Language reference of HTML5 Tags.
 &lt;kbd&gt;\
 &lt;keygen&gt;\
 &lt;label&gt;\
-[&lt;legend&gt;](legend.html) - Dispaly a label for a fieldset.\
+[&lt;legend&gt;](legend.html) - Display a label for a fieldset.\
 [&lt;li&gt;](ol.html) - List item. See [&lt;ol&gt;](ol.html) and [&lt;ul&gt;](ul.html).\
 &lt;link&gt;\
 &lt;map&gt;\
@@ -104,7 +104,7 @@ Complete Language reference of HTML5 Tags.
 &lt;th&gt;\
 &lt;thead&gt;\
 &lt;time&gt;\
-[&lt;title&gt;](title.html) - Set the title of the page.\
+[&lt;title&gt;](title.html) - Defines the title of the page.\
 &lt;tr&gt;\
 &lt;track&gt;\
 [&lt;u&gt;](u.html) - Display contained text in an underlined version of the font.\
