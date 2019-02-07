@@ -85,7 +85,7 @@ Complete Language reference of HTML5 Tags.
 &lt;ruby&gt;\
 &lt;s&gt;\
 &lt;samp&gt;\
-&lt;script&gt;\
+&[lt;script&gt;](script.html) - Include script, eg. JavaScript ES5 inline from anohter file.\
 &lt;section&gt;\
 &lt;select&gt;\
 &lt;small&gt;\
@@ -104,7 +104,7 @@ Complete Language reference of HTML5 Tags.
 &lt;th&gt;\
 &lt;thead&gt;\
 &lt;time&gt;\
-&lt;title&gt;\
+[&lt;title&gt;](title.html) - Set the title of the page.\
 &lt;tr&gt;\
 &lt;track&gt;\
 [&lt;u&gt;](u.html) - Display contained text in an underlined version of the font.\
