@@ -15,7 +15,7 @@ Complete Language reference of HTML5 Tags.
 [&lt;base&gt;](base.html) - Defines the base URL of the page (which other URLS are located from).\
 [&lt;bdi&gt;](base.html) - Defines text which requires Bi-Directional Isolation (eg. for RTL languages).\
 [&lt;bdo&gt;](bdo.html) - Defines text which requires a Bi-Directional Override (eg. to set LTR languages to RTL). \
-&lt;blockquote&gt;\
+[&lt;blockquote&gt;](blockquote.html) - Defines text which is quoted form another source.\
 [&lt;body&gt;](body.html) - Designate the BODY area of the document.\
 [&lt;br&gt;](br.html) - Insert a break line so the follow text begins on a new line.\
 &lt;button&gt;\
