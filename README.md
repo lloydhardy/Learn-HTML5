@@ -13,7 +13,7 @@ Complete Language reference of HTML5 Tags.
 [&lt;audio&gt;](audio.html) - Embeds an audio file that can be played in the page with optional controls.\
 [&lt;b&gt;](b.html) - Display contained text in a bold version of the font.\
 [&lt;base&gt;](base.html) - Defines the base URL of the page (which other URLS are located from).\
-&lt;bdi&gt;\
+[&lt;bdi&gt;](base.html) - Defines text which requires Bi0Directional Isolation (eg. for RTL languages).\
 &lt;bdo&gt;\
 &lt;blockquote&gt;\
 [&lt;body&gt;](body.html) - Designate the BODY area of the document.\
