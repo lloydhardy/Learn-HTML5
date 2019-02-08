@@ -12,7 +12,7 @@ Complete Language reference of HTML5 Tags.
 [&lt;aside&gt;](aside.html) - Display some additional content aside from the the main content.\
 [&lt;audio&gt;](audio.html) - Embeds an audio file that can be played in the page with optional controls.\
 [&lt;b&gt;](b.html) - Display contained text in a bold version of the font.\
-&lt;base&gt;\
+[&lt;base&gt;](base.html) - Defines the base URL of the page (which other URLS are located from).\
 &lt;bdi&gt;\
 &lt;bdo&gt;\
 &lt;blockquote&gt;\
