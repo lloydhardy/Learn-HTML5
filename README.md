@@ -9,8 +9,8 @@ Complete Language reference of HTML5 Tags.
 [&lt;address&gt;](address.html) - Defines the included text as contact information.\
 [&lt;area&gt;](area.html) - Defines an area on an image using an image map to make the area HyperText linked.\
 [&lt;article&gt;](article.html) - Defines an area of a document as an article, for example, redistributable news.\
-&lt;aside&gt;\
-&lt;audio&gt;\
+[&lt;aside&gt;](aside.html) - Display some additional content aside from the the main content.\
+[&lt;audio&gt;](audio.html) - Embeds an audio file that can be played in the page with optional controls.\
 [&lt;b&gt;](b.html) - Display contained text in a bold version of the font.\
 &lt;base&gt;\
 &lt;bdi&gt;\
