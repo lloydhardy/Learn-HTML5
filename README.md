@@ -18,7 +18,7 @@ Complete Language reference of HTML5 Tags.
 [&lt;blockquote&gt;](blockquote.html) - Defines text which is quoted form another source.\
 [&lt;body&gt;](body.html) - Designate the BODY area of the document.\
 [&lt;br&gt;](br.html) - Insert a break line so the follow text begins on a new line.\
-&lt;button&gt;\
+[&lt;button&gt;](button.html) - Display a button for a form or Javascript action.\
 &lt;canvas&gt;\
 &lt;caption&gt;\
 &lt;cite&gt;\
