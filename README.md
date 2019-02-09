@@ -19,7 +19,7 @@ Complete Language reference of HTML5 Tags.
 [&lt;body&gt;](body.html) - Designate the BODY area of the document.\
 [&lt;br&gt;](br.html) - Insert a break line so the follow text begins on a new line.\
 [&lt;button&gt;](button.html) - Display a button for a form or Javascript action.\
-&lt;canvas&gt;\
+[&lt;canvas&gt;](canvas.html) - Display a canvas element (which can be decorated with Javascript commands and appears as an image)\
 &lt;caption&gt;\
 &lt;cite&gt;\
 &lt;code&gt;\
